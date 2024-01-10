@@ -43,15 +43,22 @@
 ###
 <h4 align="left">Reach me</h4>
 <div align="left">
-   <a href="[Your_Facebook_Profile_Link](https://www.linkedin.com/in/shehanigamage/)" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-     <a href="[Your_Facebook_Profile_Link](https://www.instagram.com/shehanigamage4_1?igsh=aTBpZ2dxZWdsc291&utm_source=qr)" target="_blank">  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
- <a href="[Your_Facebook_Profile_Link](https://www.facebook.com/shehani.gamage.75098?mibextid=YMEMSu)" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook Logo">
-</a>
+  <a href="https://www.linkedin.com/in/shehanigamage/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.instagram.com/shehanigamage4_1?igsh=aTBpZ2dxZWdsc291&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <a href="https://www.facebook.com/shehani.gamage.75098?mibextid=YMEMSu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook Logo" />
+  </a>
 </div>
+
 
 ###
