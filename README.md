@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate and dedicated undergraduate with a keen interest in technology</p>
+<h3 align="left"><i>Passionate and dedicated undergraduate with a keen interest in technology</i></h3>
 
 ###
 <h4 align="left">Preffered Technologies</h4>
