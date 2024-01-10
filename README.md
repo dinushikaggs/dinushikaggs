@@ -5,6 +5,14 @@
 
 <h3 align="left"><i>"Passionate and dedicated undergraduate with a keen interest in technology"</i></h3>
 
+<ul>
+  <li> 🎓  Bsc. (Hons.) in IT&M at University of Moratuwa.</li>
+  <li> 📚  Sujatha Vidyalaya</li>
+  <li> 📧 Email: <a href="mailto:ggsdinushika@gmail.com">ggsdinushika@gmail.com</a></li>
+  <li> 🛠️  Skills: Java, Nodejs, React, Mysql, etc.</li>
+  <li> 🎨  Hobbies: Cooking, painting, Reading</li>
+</ul>
+
 ###
 
 <h4 align="left">Preffered Technologies</h4>
