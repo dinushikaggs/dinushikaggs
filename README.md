@@ -11,6 +11,7 @@
   <li> 📧 Email: <a href="mailto:ggsdinushika@gmail.com">ggsdinushika@gmail.com</a></li>
   <li> 🛠️  Skills: Java, Nodejs, React, Mysql, etc.</li>
   <li> 🎨  Hobbies: Cooking, painting, Reading</li>
+    <li> 🎨  Hobbies: Cooking, painting, Reading</li>
 </ul>
 
 ###
