@@ -9,7 +9,7 @@
   <li> 🎓  Bsc. (Hons.) in IT&M at University of Moratuwa.</li>
   <li> 📚  Sujatha Vidyalaya</li>
   <li> 📧 Email: <a href="mailto:ggsdinushika@gmail.com">ggsdinushika@gmail.com</a></li>
-  <li> 🛠️  Skills: Java, Nodejs, React, Mysql, etc.</li>
+  <li> 🛠️  Skills: Java, Nodejs, Spring, React, Mysql, etc.</li>
   <li> 🎨  Hobbies: Cooking, painting, Reading</li>
 
 </ul>
